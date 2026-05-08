@@ -1,11 +1,19 @@
 # Carslie-AppShowcase
-This is the public showcase for my iOS app Carslie
-
-**[Download on the App Store](https://apps.apple.com/app/carslie/id123456789)** | **[Visit Website](https://yourwebsite.com)**
-
-![App Preview](Screenshots/app-preview.png)
-
+<p align="center">
 Carslie is a native iOS application for vehicle asset management designed for individuals and families who own one or more vehicles to track maintenance, documents, and reminders in one place. Your glovebox just got an upgrade!
+</p>
+
+<p align="center">
+<b><a href="https://apps.apple.com/app/carslie/id123456789">Download on the App Store</a></b> | <b><a href="https://yourwebsite.com">Visit Website</a></b>
+</p>
+
+<p align="center">
+  <img src="Screenshots/3.png" width="150" style="margin: 0 20px;" />
+  <img src="Screenshots/4.png" width="150" style="margin: 0 20px;" />
+  <img src="Screenshots/7.png" width="150" style="margin: 0 20px;" />
+  <img src="Screenshots/9.png" width="150" style="margin: 0 20px;" />
+  <img src="Screenshots/10.png" width="150" style="margin: 0 20px;" />
+</p>
 
 **Key Capabilities:**
 - Multi-vehicle management with photo support
