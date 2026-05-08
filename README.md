@@ -72,12 +72,6 @@ Carslie is a native iOS application for vehicle asset management designed for in
 - Empty states with clear CTAs
 - Loading indicators and error states
 
-**Accessibility**
-- VoiceOver support with semantic labels
-- Dynamic Type scaling
-- High contrast visual elements
-- Keyboard navigation compatibility
-
 ---
 
 ## Technical Highlights
@@ -123,15 +117,6 @@ Carslie is a native iOS application for vehicle asset management designed for in
 3. Matches keywords against vehicle specs JSON
 4. Generates contextual response
 5. Appends to conversation history
-
----
-
-## Technical Requirements
-
-- iOS 17.0 or later
-- Xcode 15.0 or later
-- Active internet connection for vehicle lookup
-- Photo library permissions for image selection
 
 ---
 
